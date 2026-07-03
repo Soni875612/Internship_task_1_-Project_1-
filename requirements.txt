@@ -1,0 +1,4 @@
+# No external dependencies required.
+# This project intentionally uses only Python's standard library:
+#   re, difflib, random, datetime, dataclasses, typing
+# Requires Python 3.9+
