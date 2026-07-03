@@ -93,6 +93,5 @@ position).
 
 ## 8. Author 
 Name: Soni | 
-Batch: 2026 | Powered by DecodeLabs
-📞 +91 89330 06408 | ✉ decodelabs.tech@gmail.com | 🌎 www.decodelabs.tech | https://leetcode.com/u/soni_2007/ | https://www.linkedin.com/in/soni-devi-131a9938b/ | https://github.com/Soni875612
+Batch: 2026 | Powered by DecodeLabs | https://leetcode.com/u/soni_2007/ | https://www.linkedin.com/in/soni-devi-131a9938b/ | https://github.com/Soni875612
 📍 Greater Lucknow, India
