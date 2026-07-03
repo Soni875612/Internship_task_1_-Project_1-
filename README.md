@@ -62,7 +62,7 @@ python3 chatbot.py
 Try these inputs:
 ```
 hello
-my name is Rahul
+my name is Soni
 what's the time
 what's the date
 what can you do
@@ -83,7 +83,8 @@ LLM-based system would sit behind (see the deck's "AI Guardrails" slide —
 frameworks like NVIDIA NeMo / Llama Guard occupy this same architectural
 position).
 
-## 7. Author / Program
+## 7. Author 
+Name: Soni
 Batch: 2026 | Powered by DecodeLabs
 📞 +91 89330 06408 | ✉ decodelabs.tech@gmail.com | 🌎 www.decodelabs.tech
 📍 Greater Lucknow, India
