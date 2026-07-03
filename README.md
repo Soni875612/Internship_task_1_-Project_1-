@@ -83,7 +83,15 @@ LLM-based system would sit behind (see the deck's "AI Guardrails" slide —
 frameworks like NVIDIA NeMo / Llama Guard occupy this same architectural
 position).
 
-## 7. Author 
+## 7. Project Screenshot
+
+
+<img width="1617" height="907" alt="image" src="https://github.com/user-attachments/assets/7c6fe6a4-86f9-44ea-8e8e-a4f5d9f68aa3" />
+
+
+
+
+## 8. Author 
 Name: Soni | 
 Batch: 2026 | Powered by DecodeLabs
 📞 +91 89330 06408 | ✉ decodelabs.tech@gmail.com | 🌎 www.decodelabs.tech | https://leetcode.com/u/soni_2007/ | https://www.linkedin.com/in/soni-devi-131a9938b/ | https://github.com/Soni875612
